@@ -1,2 +1,2 @@
 # Ini adalah repository untuk latihan membuat brance baru di Github
-Github itu asyik lo
+Belajar Github di dicoding itu seru
